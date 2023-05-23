@@ -1,1 +1,5 @@
+jobdesk 
+-membuat database
+-buat 5 table
+-input data
 
