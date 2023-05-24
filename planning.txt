@@ -1,0 +1,6 @@
+Rencana Project
+-membuat database sekolah (DONE)
+-membuat halaman dashboard
+-membuat profile
+-membuat halaman spp
+-membuat halaman pembayaran
